@@ -1,3 +1,5 @@
+![React Typescript Repository Template](https://user-images.githubusercontent.com/5009172/163227352-b46fcb2c-7772-4d49-990f-28690ff420d4.png)
+
 # React Typescript Repository Template
 
 - React
