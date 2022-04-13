@@ -8,6 +8,7 @@
 - [Husky](https://prettier.io/docs/en/install.html#git-hooks)
 - Lint-stage
 - [Commit-lint](https://github.com/conventional-changelog/commitlint)
+- Tailwindcss
 
 ## Commit conventios:
 ```
