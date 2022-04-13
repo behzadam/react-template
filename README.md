@@ -9,5 +9,21 @@
 - Lint-stage
 - [Commit-lint](https://github.com/conventional-changelog/commitlint)
 
+## Commit conventios:
+```
+[
+  build
+  chore
+  ci
+  docs
+  feat
+  fix
+  perf
+  refactor
+  revert
+  style
+  test
+]
+```
 
 Good article: [link](https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba)
